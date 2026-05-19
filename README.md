@@ -10,9 +10,10 @@ Businesses often struggle to track sales performance across regions, products, a
 This project aims to simplify data into actionable insights for better decision-making.
 
 # Tools Used
-Power BI
+Power BI - Dashboard creation & visualization
 
-Excel
+Excel – Data cleaning and preprocessing
+
 
 # Key Metrics
 Total Sales: 308M
